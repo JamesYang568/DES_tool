@@ -6,7 +6,7 @@ Feel free to use it (this project is just for my final exam). The instructions a
 
 2 You can encrypt or decrypt the text and documents(.txt .doc .docx).  Run theMain.java.
 
-3 Please first run CreatePassPort to get a **register code**, or you can't go into the software.
+3 Please first run CreatePassPort to get a **register code**, or you can't boost the software.
 
 4 After registration you need to create a brand account for yourself.
 
